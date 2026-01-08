@@ -67,7 +67,7 @@ R² Score
 🖥️ Web Application
 
 A user-friendly web interface is built using Streamlit, where users can input gold price features and get predicted gold prices.
+
 Files:
 app.py
-
 app1.py
